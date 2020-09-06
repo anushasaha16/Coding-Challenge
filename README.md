@@ -30,5 +30,5 @@ Regardless if you can or cannot answer the question, provide a short explanation
 * Matplotlib
 
 ## Sources
-* [How to determine the optimal number of clusters for k-means clustering]https://blog.cambridgespark.com/how-to-determine-the-optimal-number-of-clusters-for-k-means-clustering-14f27070048f
-* [Elbow Method for optimal value of k in KMeans]https://www.geeksforgeeks.org/elbow-method-for-optimal-value-of-k-in-kmeans/
+* [How to determine the optimal number of clusters for k-means clustering](https://blog.cambridgespark.com/how-to-determine-the-optimal-number-of-clusters-for-k-means-clustering-14f27070048f)
+* [Elbow Method for optimal value of k in KMeans](https://www.geeksforgeeks.org/elbow-method-for-optimal-value-of-k-in-kmeans/)
