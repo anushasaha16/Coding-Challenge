@@ -35,3 +35,5 @@ I used the k-means clustering algorithm and "elbow method" to determine the opti
 ## Sources
 * [How to determine the optimal number of clusters for k-means clustering](https://blog.cambridgespark.com/how-to-determine-the-optimal-number-of-clusters-for-k-means-clustering-14f27070048f)
 * [Elbow Method for optimal value of k in KMeans](https://www.geeksforgeeks.org/elbow-method-for-optimal-value-of-k-in-kmeans/)
+* [kmeans scatter plot: plot different colors per cluster
+](https://stackoverflow.com/questions/28227340/kmeans-scatter-plot-plot-different-colors-per-cluster)
